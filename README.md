@@ -38,7 +38,7 @@
 
 ### 主菜单 (Main Menu)
 这里是建立主机和输入 IP 加入的地方。
-![主菜单](./screenshots/main_menu.jpg)
+![主菜单](./screenshots/main_manu.jpg)
 
 ### 战斗画面 (Gameplay)
 双人联机对战测试。
