@@ -1,0 +1,21 @@
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# Mac / XCode files
+*.xcodeproj
+*.xcworkspace
+
+# OS files
+.DS_Store
+Thumbs.db
