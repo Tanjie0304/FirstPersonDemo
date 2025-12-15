@@ -98,7 +98,9 @@ demo实现了双人射击对战，并实现了生命值、射击、计时、场�
 
 
 ## 演示视频链接
-
+通过网盘分享的文件：箐英班大作业演示.mp4
+链接: https://pan.baidu.com/s/1QP_ewMxousoBSR_W6uQ1gA?pwd=v3w4 提取码: v3w4 
+--来自百度网盘超级会员v2的分享
 
 ---
 *Created by [tanjie]*
