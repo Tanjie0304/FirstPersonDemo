@@ -56,6 +56,10 @@
 ![客户端](./screenshots/menu_join.jpg)
 
 ### 战斗关卡
+#### 战斗主关卡
+这是战斗主关卡的俯视图，基于UE5官方demo自带的一些蓝图布置而成。
+![主要关卡](./screenshots/mainlevel.jpg)
+
 #### 游戏开始
 房主开始游戏后，所有玩家跳转到战斗关卡。这里是游戏开始时玩家出生点画面。
 ![游戏开始](./screenshots/playpoint.jpg)
