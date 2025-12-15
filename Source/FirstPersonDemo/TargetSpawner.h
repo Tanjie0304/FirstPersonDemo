@@ -6,6 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "TargetSpawner.generated.h"
 
+class ATargetCube;
 UCLASS()
 class FIRSTPERSONDEMO_API ATargetSpawner : public AActor
 {

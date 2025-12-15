@@ -9,6 +9,7 @@
 #include "Components/TextRenderComponent.h"
 #include "TargetCube.generated.h"
 
+
 UCLASS()
 class FIRSTPERSONDEMO_API ATargetCube : public AActor
 {
